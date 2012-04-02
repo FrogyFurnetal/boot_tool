@@ -1,0 +1,4 @@
+tools for packing boot.img and other tools
+you need to place coresponding zImage and wifi modules !
+
+include cwm touch
